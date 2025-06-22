@@ -1,0 +1,13 @@
+[package]
+name = "synergy-core"
+version = "0.1.0"
+authors = ["Dray"]
+edition = "2024"
+description = "The core of the Synergy engine! Implements the ECS system."
+homepage = "Synergy-Engine.github.io"
+repository = "https://github.com/Synergy-Engine/synergy-core"
+license = "Apache-2.0"
+keywords = ["game", "engine", "game-engine"]
+categories = ["game-development", "game-engines"]
+
+[dependencies]
